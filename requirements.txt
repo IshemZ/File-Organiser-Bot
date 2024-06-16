@@ -1,0 +1,5 @@
+cffi==1.16.0
+file==0.3.0
+libmagic==1.0
+pycparser==2.22
+python-magic==0.4.27
