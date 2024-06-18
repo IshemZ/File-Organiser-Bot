@@ -2,4 +2,3 @@ venv
 Programme/path.py
 Programme/__pycache__
 .DS_Store
-Programme/run_script.sh
